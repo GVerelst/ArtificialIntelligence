@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="IO.fs" />
+    <Compile Include="KmeansOneValue.fs" />
+    <Compile Include="KmeansGeneric.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
